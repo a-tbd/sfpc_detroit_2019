@@ -1,14 +1,14 @@
-*Course description*
+# Course description
 
 We all come from different backgrounds, and many of us likely work for wages in different industries (art, technology, design, education). All of us perform varying degrees of labor outside the marketplace (e.g. care work). Some of us may have a deep understanding of our labor, while others may not think of ourselves as workers at all. This course is a collective consciousness-raising exercise for us to better understand our relationship to power and capital and our identities as workers, and how those identities shape and are shaped by technology. In doing so, we will build a sense of community and shared struggle, and a better understanding of our collective power to bring about change.
 
-*Day 1. The Workers Inquiry*
+## Day 1. The Workers Inquiry
 We will begin with a Worker’s Inquiry. Since it will take some time to do the inquiry itself, the readings for this day are general background and are not required.
 
 [The Workers’ Inquiry and Social Composition](https://notesfrombelow.org/article/workers-inquiry-and-social-composition) (optional)
 [General information on the history of the Worker’s Inquiry](https://www.viewpointmag.com/2013/09/27/workers-inquiry-a-genealogy/) (optional)
 
-*Day 2. Tech|Work*
+## Day 2. Tech|Work
 This day is about looking critically about how we talk and write about technology.
 
 
