@@ -5,8 +5,8 @@ We all come from different backgrounds, and many of us likely work for wages in 
 ## Day 1. The Workers Inquiry
 We will begin with a Worker’s Inquiry. Since it will take some time to do the inquiry itself, the readings for this day are general background and are not required.
 
-[The Workers’ Inquiry and Social Composition](https://notesfrombelow.org/article/workers-inquiry-and-social-composition) (optional)
-[General information on the history of the Worker’s Inquiry](https://www.viewpointmag.com/2013/09/27/workers-inquiry-a-genealogy/) (optional)
+* [The Workers’ Inquiry and Social Composition](https://notesfrombelow.org/article/workers-inquiry-and-social-composition) (optional)
+* [General information on the history of the Worker’s Inquiry](https://www.viewpointmag.com/2013/09/27/workers-inquiry-a-genealogy/) (optional)
 
 ## Day 2. Tech|Work
 This day is about looking critically about how we talk and write about technology.
