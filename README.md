@@ -56,5 +56,3 @@ Additional resources
 * [collectiveactions.tech](https://collectiveactions.tech/)
 * [Warren Kanders Resigns From Whitney Museum Board After Months of Controversy and Protest [UPDATED]](https://hyperallergic.com/511052/warren-kanders-resigns/)
 * [I Went to Australia to Test out Tesla’s Vision of the Future](https://www.theverge.com/2019/6/25/18715585/tesla-australia-renewable-energy-houses-electrical-grid-battery-installation)
-* [Racism, Technology, and the Limits of Western Knowledge](https://github.com/morehshin/TheRadicalOutside/blob/master/TheRadicalOutsideLibrary/ann-tbd/8-Wright-Western-Knowledge.pdf) by Michelle M. Wright
-* [Critical Perspectives on Work and Organisations](https://github.com/a-tbd/sfpc_detroit_2019/blob/master/readings/(Critical%20Perspectives%20on%20Work%20and%20Organisations)%20Paul%20Thompson%2C%20Chris%20Warhurst%20(eds.)%20-%20Workplaces%20of%20the%20Future-Macmillan%20Education%20UK%20(1998)%20(dragged)%20(1).pdf) by Joan Greenbaum
