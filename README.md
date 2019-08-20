@@ -18,6 +18,7 @@ The readings for this day are general background and are not required.
 
 15 min: Report back + wrap up
 
+* [‘Robots’ Are Not 'Coming for Your Job'—Management Is](https://gizmodo.com/robots-are-not-coming-for-your-job-management-is-1835127820)
 * [The Workers’ Inquiry and Social Composition](https://notesfrombelow.org/article/workers-inquiry-and-social-composition) (optional)
 * [General information on the history of the Worker’s Inquiry](https://www.viewpointmag.com/2013/09/27/workers-inquiry-a-genealogy/) (optional)
 
@@ -27,30 +28,19 @@ On Day 2 we will discuss the relationship bewteen capital and technology, and co
 With a mixture of lectures and hands on exercises, we'll learn about how batteries function and build our own battery. Finally, we will combine multiple cells of a battery to power an LED (or several LEDs!).
 
 *Agenda*
-10 min: Intro to the activity
+45 min: Lecture + demos on power and batteries
 
-10 min: (lecture) What is a battery?
+5 min: Break
 
-10 min: Testing voltage of a 3V and 9V battery
+30 min: Hands on activity - making batteries
 
-10 min: (lecture) Series + Parallel
-
-10 min: Trying out batteries in series and parallel
-
-10 min: (lecture) How to make a lemon battery
-
-20 min: Lemon battery to power light (solo)
-
-30 min: Collective power light array
-
-10 min: Wrap up/clean up
+30 min: Wrap up/clean up
 
 
 *Background reading*
 
 Required
 * [Where Will the Materials for Our Clean Energy Future Come From?](https://www.theverge.com/2019/2/15/18226210/energy-renewables-materials-mining-environment-neodymium-copper-lithium-cobalt)
-* [‘Robots’ Are Not 'Coming for Your Job'—Management Is](https://gizmodo.com/robots-are-not-coming-for-your-job-management-is-1835127820)
 
 Additional resources
 * [collectiveactions.tech](https://collectiveactions.tech/)
