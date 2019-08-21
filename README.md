@@ -47,3 +47,5 @@ Additional resources
 * [solar powered online magazine](https://solar.lowtechmagazine.com)
 * [Warren Kanders Resigns From Whitney Museum Board After Months of Controversy and Protest [UPDATED]](https://hyperallergic.com/511052/warren-kanders-resigns/)
 * [I Went to Australia to Test out Tesla’s Vision of the Future](https://www.theverge.com/2019/6/25/18715585/tesla-australia-renewable-energy-houses-electrical-grid-battery-installation)
+
+* [Preso for today](https://docs.google.com/presentation/d/184eplCuQ6dYwFhqJljZ8sKIXIgXpPoBG9Kff1RXpSo4/edit?usp=sharing)
